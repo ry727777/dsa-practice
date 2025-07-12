@@ -10,7 +10,7 @@ void solve(int n, char from_rod, char to_rod, char aux_rod){
 }
 
 int main(){
-    int n = 3;
+    int n = 1000;
     solve(n, 'A', 'C', 'B');
 }
 
