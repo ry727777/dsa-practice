@@ -13,7 +13,7 @@ int countSetBit(int x){
 }
 
 int main(){
-    int n = 16;
+    int n = 1;
     int ans = countSetBit(n);
     cout<<ans<<endl;
 }
